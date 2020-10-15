@@ -19,8 +19,12 @@ div .jumbotron {
   background-size: cover;
 }
 
+.row {
+  background-color: white;
+}
+
 img {
-  position: right;
+  position: center;
   height: 50%;
   width: auto;
 }
